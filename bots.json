@@ -1,0 +1,12 @@
+[
+    {
+        "name": "스카이워커",
+        "deck": "SkyWalker",
+        "difficulty": 3,
+        "masterRules": [
+            3,
+            4,
+            5
+        ]
+    }
+]
