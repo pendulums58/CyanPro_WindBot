@@ -8,5 +8,15 @@
             4,
             5
         ]
+    },
+    {
+        "name": "환영검",
+        "deck": "IllusionSword",
+        "difficulty": 3,
+        "masterRules": [
+            3,
+            4,
+            5
+        ]
     }
 ]
